@@ -1,3 +1,12 @@
+## Quick Access
+
+| Entry | URL |
+| --- | --- |
+| GPT5.6 Channel | https://pay.kklt.lol/ |
+| Claude4.8 Channel | https://fuckme.443.hk/ |
+| Open Free2AI Free Navigation | https://free2ai.pages.dev/ |
+| Telegram Support | https://t.me/kkscshop |
+
 ﻿# GPT-5.6 and Claude Opus 4.8 Access Guide
 
 This repository is a model access navigation page for AI users, developers, automation builders, and AIGC creators. It follows the Free2AI-style structure and focuses on gateway routes for GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5, and other advanced models.
