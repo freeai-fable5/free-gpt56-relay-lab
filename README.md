@@ -2,7 +2,7 @@
 
 这是一个面向 AI 用户、开发者、自动化脚本和 AIGC 创作者的模型接入导航仓库。内容参考 Free2AI 当前项目结构，重点整理 GPT-5.6、Claude Opus 4.8、Gemini 3.5、DeepSeek V4、Qwen3.7、Grok 4.5 等高阶模型的中转和网关路线。
 
-关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 
 ## 项目定位
 
@@ -21,7 +21,7 @@ GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5
 
 ## 推荐访问
 
-- 关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+- 关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Free2AI 导航：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - 推荐中转服务：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - 电报客服：[https://t.me/kkscshop](https://t.me/kkscshop)
