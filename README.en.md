@@ -2,7 +2,7 @@
 
 This repository is a model access navigation page for AI users, developers, automation builders, and AIGC creators. It follows the Free2AI-style structure and focuses on gateway routes for GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5, and other advanced models.
 
-Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
 
 ## Positioning
 
@@ -21,7 +21,7 @@ GPT-5.6, Claude Opus 4.8, Gemini 3.5, DeepSeek V4, Qwen3.7, Grok 4.5
 
 ## Access Links
 
-- Related entry: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+- Related entry: [https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Free2AI directory: [https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - Recommended relay service: [https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Telegram support: [https://t.me/kkscshop](https://t.me/kkscshop)
